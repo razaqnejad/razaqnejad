@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ّFatemeh Razaqnejad
+- 👋 Hi, I’m Fatemeh Razaqnejad
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on Robotic Projects

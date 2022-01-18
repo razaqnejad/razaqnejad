@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fatemeh Razaqnejad.
 - 👀 I’m interested in Robotics.
 - 🌱 And currently I'm studying towards a bachelor's in Computer Engineering.
-- 💞️ I’m looking to collaborate for Robotic Projects.
+- 💞️ I’m looking to collaborate for Robotic, Programming and Embedded System Projects.
 - 📫 Please contact me with razaqnejad@gmail.com
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hey, My name is Ema Razaqnejad.
+- 👋 Hey, My name is Fatemeh Razaqnejad, you can call me Ema btw.
 - 👀 I'm interested in ML, Art, and HCI, weird huh? 🙂
 - 🌱 Currently I'm studying towards a bachelor's in Computer Engineering.
 - 💞️ I’m looking for a research Ms or PHD position.
